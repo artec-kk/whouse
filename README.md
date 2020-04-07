@@ -31,8 +31,7 @@ whouse.exe "Dear Lisa.sb3"
 whouse.exe "Dear Lisa.sb3" csv
 ```
 
-intro,Stage,Open Text,Control,
-Message #,Stage,Open Text,Control,CB,Zinnea,mres,me_win,me_win2,Champ99,Lilyland,Khanning,KayOh,carmelo,Eric1,Eric2,Eric3,Me,ChrisG,Shruit,
-card ready,Stage,
-clone stop,Shruit,
-
+intro,Stage,Open Text,Control,  
+Message #,Stage,Open Text,Control,CB,Zinnea,mres,me_win,me_win2,Champ99,Lilyland,Khanning,KayOh,carmelo,Eric1,Eric2,Eric3,Me,ChrisG,Shruit,  
+card ready,Stage,  
+clone stop,Shruit,  
