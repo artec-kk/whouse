@@ -32,7 +32,7 @@ def sprite_used(values, data):
     json_dict = json.loads(data)
     for item in json_dict['targets']:
         for val in values:
-            if (("'"+val+"'") in str(item)):
+            if (("'"+val+"'") in str(item['blocks'])):
                 result[val].append(item['name'])
 
     return result
